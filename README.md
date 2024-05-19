@@ -63,6 +63,9 @@ __Check out the Amplify Discord server__
 - [Effective Jekyll: Hosting Websites on AWS Amplify](https://www.miguoliang.com/effective-jekyll-hosting-websites-on-aws-amplify.html)
 - [Protect and Monitor Your Front End Application](https://dev.to/danielnetzer/protect-and-monitor-your-front-end-application-2c33)
 - [How to deploy a React Application on AWS Amplify](https://www.youtube.com/watch?v=kKwyKQ8Jxd8)
+- [Deploy Astro to AWS Amplify: A Step-by-Step Guide](https://www.launchfa.st/blog/deploy-astro-aws-amplify)
+- [Deploy Next.js to AWS Amplify: A Step-by-Step Guide](https://www.launchfa.st/blog/deploy-nextjs-aws-amplify)
+- [Deploy SvelteKit to AWS Amplify: A Step-by-Step Guide](https://www.launchfa.st/blog/deploy-sveltekit-aws-amplify)
 
 #### DataStore blogs & tutorials
 
